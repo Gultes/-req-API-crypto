@@ -1,6 +1,6 @@
 Representa a requisição de dados de uma API de criptomoedas através da orientação recebida no BOOTCAMP Everis FullStack;
 
-**Os objetivos desse projeto foram**
+**Os objetivos desse projeto foram:**
 
 * Fazer uma requisição de uma API 
 * Trabalhar os valores dessa API 
